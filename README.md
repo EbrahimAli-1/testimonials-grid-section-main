@@ -1,3 +1,6 @@
+# Frontend Mentor - Testimonials grid section
+
+![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
 # Frontend Mentor - Testimonials grid section solution
 
@@ -7,7 +10,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [Challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built-with](#built-with)
 - [Author](#author)
@@ -19,10 +21,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-
-### Screenshot
-
-![](./design/screenshot.PNG)
 
 ### Links
 
